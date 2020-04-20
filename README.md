@@ -17,3 +17,5 @@ Images have to be in a folder structure in "categories". For Example the folder 
 Step 2: To classify a image:
 
 Start the "Klassifizieren"-Main method with the path to the image and the path to the model from Step 1.
+
+ORCID: https://orcid.org/0000-0002-6975-1959
